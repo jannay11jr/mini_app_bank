@@ -1,0 +1,6 @@
+
+# Ignorar archivos y carpetas generados por IntelliJ IDEA
+.idea/
+
+# Ignorar archivos compilados
+.out/
