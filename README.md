@@ -1,13 +1,14 @@
-#Mini App Bank Java
-Este proyecto es una aplicación bancaria simple escrita en Java con la libreria Swing.
+# Mini App Bank Java
+
+Este proyecto es una aplicación bancaria simple escrita en Java con la librería Swing.
 
 La Mini App Bank Java es una aplicación bancaria básica que permite a los usuarios realizar operaciones como consultar saldo, hacer depósitos y retiros.
 
-Características
+## Características
 - Consulta de saldo
 - Ingreso de dinero
 - Retiro de dinero
-- 
-##Tecnologías Utilizadas
-Java
-Swing (para la interfaz gráfica de usuario)
+
+## Tecnologías Utilizadas
+- Java
+- Swing (para la interfaz gráfica de usuario)
