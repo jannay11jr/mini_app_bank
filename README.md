@@ -1,4 +1,4 @@
-# Mini App Bank Java
+# Mini App Bank Java con Swing
 
 Este proyecto es una aplicación bancaria simple escrita en Java con la librería Swing.
 
